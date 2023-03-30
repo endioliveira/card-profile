@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(255 228 230);
+}
+/* 
+svg:hover path  {
+    fill: #ff6464;
+  }
+svg:hover stroke  {
+    fill: #ff6464;
+  } */
