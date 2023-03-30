@@ -1,6 +1,5 @@
 import profile from "./assets/anya.gif";
 
-
 function App() {
   return (
     <>
@@ -12,7 +11,9 @@ function App() {
             class="rounded-full w-32 h-32 p-2"
           />
           <h1 className="text-white text-3xl">Endi Oliveira</h1>
-          <p className="text-sm text-white font-extralight">Desenvolvedora Web</p>
+          <p className="text-sm text-white font-extralight">
+            Desenvolvedora Web
+          </p>
           <br />
           <p className="text-white text-center">
             Nesse perfil eu posto coisas relacionadas a programação e estudos no
@@ -38,7 +39,7 @@ function App() {
               </svg>
             </a>
 
-            <a href="https://www.linkedin.com/in/endioliveira/" target="_blank">
+            <a href="https://www.instagram.com/medeiros_eo/" target="_blank">
               <svg
                 className="cursor-pointer"
                 xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +59,7 @@ function App() {
               </svg>
             </a>
 
-            <a href="https://www.instagram.com/m4ndystudies_/" target="_blank">
+            <a href="https://www.linkedin.com/in/endioliveira/" target="_blank">
               <svg
                 className="cursor-pointer"
                 xmlns="http://www.w3.org/2000/svg"
