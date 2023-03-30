@@ -97,7 +97,7 @@ function App() {
             </a>
 
             <a
-              href="https://github.com/endioliveira/portfolio-endioliveira"
+              href="https://portfolio-endioliveira.vercel.app/"
               target="_blank"
             >
               <svg
