@@ -1,6 +1,7 @@
 import profile from "./assets/anya.gif";
 
 function App() {
+
   return (
     <>
       <div className="flex justify-center	items-center h-screen">
