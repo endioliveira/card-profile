@@ -1,11 +1,13 @@
 import profile from "./assets/anya.gif";
 
+
 function App() {
+
 
   return (
     <>
       <div className="flex justify-center	items-center h-screen">
-        <div className="w-96 h-96 rounded-3xl flex items-center flex-col p-3.5 flex justify-center items-center bg-rose-400 shadow-2xl">
+        <div className="w-72 h-4/6 rounded-3xl flex items-center flex-col p-3.5 flex justify-center items-center bg-rose-400 shadow-2xl">
           <img
             src={profile}
             alt="foto de Endi Oliveira"
